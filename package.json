@@ -1,0 +1,14 @@
+{
+  "name": "@trying-dev/power",
+  "version": "1.0.0",
+  "description": "A powerful application created by Trying Dev",
+  "type": "module",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trying-dev/power.git"
+  },
+  "scripts": {
+    "dev": "cd workspace/power-app && pnpm dev"
+  }
+}
